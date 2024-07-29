@@ -5,8 +5,6 @@ import gift.auth.domain.Login;
 import gift.auth.domain.Token;
 import gift.auth.service.LoginService;
 import gift.util.page.SingleResult;
-import io.swagger.annotations.Api;
-import io.swagger.annotations.ApiOperation;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.tags.Tag;
 import jakarta.validation.Valid;

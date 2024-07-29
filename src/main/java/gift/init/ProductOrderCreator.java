@@ -1,6 +1,5 @@
 package gift.init;
 
-import gift.domain.ProductOrder.decreaseProductOption;
 import gift.service.ProductOrderService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
